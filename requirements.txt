@@ -3,5 +3,5 @@ pandas
 openpyxl
 reportlab
 pypdf
-calamine
+python-calamine
 numpy
